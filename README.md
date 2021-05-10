@@ -11,6 +11,7 @@ In folder `Station_Earthquake_Searching`, someone can find two searching tools:
 - matplotlib-3.2.2
 - folium-0.12.1
 - numpy-1.20.1
+- branca-0.4.2
 
 ### 1.2 Examples:
 #### 1.2.1 `earthquake searching`
