@@ -19,7 +19,7 @@ Run the script `widget_earthquake.py` to keep going.
 
 ***
 #### 1.2.2 `station searching`
-Run the script `widget_station.py` and set some searching parametersyou to see the following GUI.
+Run the script `widget_station.py` and set some searching parameters to see the following GUI.
 ![station](https://github.com/geophydog/Nice_Seismic_Tools_GUI/blob/main/images/station_example.png)
 
 ### 1.3 Combining widgets
