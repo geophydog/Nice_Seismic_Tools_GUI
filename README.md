@@ -13,7 +13,7 @@
 	`numpy`
 
 ### Examples:
-	![earthquake](images/earthquake_example.png)
+	![earthquake](https://github.com/geophydog/Nice_Seismic_Tools_GUI/blob/main/images/earthquake_example.png)
 	
-	![station](images/station_example.png)
+	![station](https://github.com/geophydog/Nice_Seismic_Tools_GUI/blob/main/images/station_example.png)
 
