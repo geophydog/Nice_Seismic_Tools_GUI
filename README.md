@@ -63,4 +63,7 @@ if __name__ == '__main__':
 ### Contributor
 `Geophydog`
 
-`geophydogvon AT gmai.com`
+`geophydogvon@gmail.com`
+
+### Feedback
+Please feel free to contact me if you have any question when using these tools.
