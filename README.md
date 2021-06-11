@@ -12,6 +12,7 @@ In folder `Station_Earthquake_Searching`, someone can find two searching tools:
 - folium-0.12.1
 - numpy-1.20.1
 - branca-0.4.2
+- urllib3-1.23
 
 ### 1.2 Examples:
 #### 1.2.1 `earthquake searching`
