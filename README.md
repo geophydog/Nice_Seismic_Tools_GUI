@@ -1,4 +1,5 @@
-## :one: Station and earthquake searching based on the FDSN web services ([FDSNWS](http://www.fdsn.org/webservices/datacenters/)).
+## :one: SeisEyePy  :part_alternation_mark: :mag:  :snake:
+### Station and earthquake searching based on the FDSN web services ([FDSNWS](http://www.fdsn.org/webservices/datacenters/)).
 The motivation of developing these FDSNWS-based searching tools is that the internet may go wrong when showing data on web page.
 The slow network speed in some regions also urges us to build some graphical user interface (GUI) to help us to conduct the furture work of processing seismic data.
 
