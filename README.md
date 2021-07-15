@@ -11,10 +11,15 @@ In folder `Station_Earthquake_Searching`, someone can find two searching tools:
 - PyQt-5.15.4
 - matplotlib-3.2.2
 - folium-0.12.1
+- geopy-2.0.0
 - numpy-1.20.1
 - branca-0.4.2
 - urllib3-1.23
 - PyQtWebEngine-5.15.4
+
+### Tips
+Got to `https://pypi.org/project/PyQt5/#files` to download pyqt5 Wheel file with proper version (according to your Python version)
+and install it with the `pip` tool. Run `pip install PyQtWebEngine` to install the `PyQtWebEngine` tool.
 
 ### 1.2 Examples:
 #### 1.2.1 `earthquake searching`
