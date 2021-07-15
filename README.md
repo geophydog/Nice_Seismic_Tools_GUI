@@ -14,7 +14,7 @@ In folder `Station_Earthquake_Searching`, someone can find two searching tools:
 - numpy-1.20.1
 - branca-0.4.2
 - urllib3-1.23
-- PyQt5WebEngine-5.15.4
+- PyQtWebEngine-5.15.4
 
 ### 1.2 Examples:
 #### 1.2.1 `earthquake searching`
