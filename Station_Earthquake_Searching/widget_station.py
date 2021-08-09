@@ -319,6 +319,16 @@ class StationWidgetBlock(QWidget):
 								'StamenWaterColor', 'HikeBikeMultiLa',
 								'ArcgisChinaEnLa', 'ArcgisOnlineEnLa'])
 		self.map_type.setCurrentText('ArcgisOnlineEnLa')
+		self.map = folium.Map(location=[0, 0],
+				      tiles='https://server.arcgisonline.com/ArcGIS/rest/services/' + \
+                                      'World_Imagery/MapServer/tile/{z}/{y}/{x}.png',
+				      attr='default',
+				      control_scale=True,
+				      zoom_start=0.5)
+		self.map.add_child(folium.LatLngPopup())
+		data = io.BytesIO()
+		self.map.save(data, close_file=False)
+		self.map_view.setHtml(data.getvalue().decode())
 		self.layout2 = QGridLayout()
 		self.layout2.addWidget(self.map_type, 0, 0, 1, 1)
 		self.layout2.addWidget(self.plot_sta, 0, 1, 1, 1)
