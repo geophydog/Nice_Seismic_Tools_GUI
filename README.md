@@ -69,9 +69,9 @@ if __name__ == '__main__':
 
 ***
 ## :two: RetrieveGeometry  :part_alternation_mark: :mag:  :snake:
-	In folder `Retrieve_Geometry_on_Map`, someone can find a tool `retrieve_geo_shape.py`, and we can use it to obtain the geometry coordinates (longitude and latitude) of coastlines, lake outlines, highways, railways or whatever you want.
-	Here is an example of retrieving the outline of Chahu lake in Anhui province, China.
-	![station](https://github.com/geophydog/Nice_Seismic_Tools_GUI/blob/main/images/chaohu_lake.jpg)
+In folder `Retrieve_Geometry_on_Map`, someone can find a tool `retrieve_geo_shape.py`, and we can use it to obtain the geometry coordinates (longitude and latitude) of coastlines, lake outlines, highways, railways or whatever you want.
+Here is an example of retrieving the outline of Chahu lake in Anhui province, China.
+![station](https://github.com/geophydog/Nice_Seismic_Tools_GUI/blob/main/images/chaohu_lake.jpg)
 
 ### Contributor
 `Geophydog`
